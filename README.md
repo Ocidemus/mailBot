@@ -32,7 +32,7 @@ To run MailBot locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Ocidemus/mailBot.git
    cd MailBot
    ```
 
